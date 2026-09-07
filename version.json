@@ -1,7 +1,7 @@
 {
-  "version": "1.9.28",
-  "versionCode": 9,
-  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.27.apk",
-  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.27.apk",
-  "notes": "UI/layout polish, fixed header spacing, new Customer Types (Accountant and Engineering), Dealer removed, New Customer type-first flow, automatic Assigned Area by official email, Weekly Plan improvements, profile photo navigation, and improved update prompt."
+  "version": "1.9.30",
+  "versionCode": 11,
+  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.30.apk",
+  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.30.apk",
+  "notes": "All previous Innoval improvements preserved. Assigned Area is automatic from official Outlook email for Field Force, while Admin sees Choose Area and can access all areas. Background update checking and update notifications are enabled."
 }

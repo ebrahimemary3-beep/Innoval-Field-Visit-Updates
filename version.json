@@ -1,4 +1,7 @@
 {
-  "version": "1.9.8",
-  "downloadUrl": "https://github.com/ebrahimemary3-beep/Innoval-Field-Visit/releases/download/v1.9.8/app-release.apk"
+  "version": "1.9.26",
+  "versionCode": 7,
+  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.26.apk",
+  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.26.apk",
+  "notes": "Header, Weekly Plan delete, Planned/Not Planned visit flow, profile photo navigation, and update checker improvements."
 }

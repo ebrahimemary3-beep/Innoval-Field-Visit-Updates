@@ -1,7 +1,7 @@
 {
-  "version": "1.9.33",
-  "versionCode": 14,
-  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.33.apk",
-  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.33.apk",
-  "notes": "New Innoval Field Visit improvements are available."
+  "version": "1.9.34",
+  "versionCode": 15,
+  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.34.apk",
+  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.34.apk",
+  "notes": "New Innoval Field Visit improvements: improved iOS safe-area layout, updated Reporting and Customers cards, fixed Weekly Plan customer selection and date handling, restored Password settings, and improved profile avatar display."
 }

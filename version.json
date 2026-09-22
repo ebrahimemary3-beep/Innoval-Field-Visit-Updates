@@ -1,7 +1,7 @@
 {
-  "version": "1.9.35",
-  "versionCode": 16,
-  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.35.apk",
-  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.35.apk",
-  "notes": "Innoval Field Visit v1.9.35: consolidated Reporting and Customers sections, improved Dashboard and Export Visit History, fixed Weekly Plan customer selection by selected date, added New Visit close button, improved existing customer picker, profile photo display, password reset, and preserved previous application features."
+  "version": "1.9.56",
+  "versionCode": 17,
+  "url": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.56.apk",
+  "downloadUrl": "https://ebrahimemary3-beep.github.io/Innoval-Field-Force/Innoval-Field-Visit-v1.9.56.apk",
+  "notes": "Innoval Field Visit v1.9.56: improved responsive layout across mobile, iOS, Android, tablet, laptop and desktop; removed Comments from New Visit; improved Visit Conclusion voice input."
 }
